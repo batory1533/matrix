@@ -8,7 +8,7 @@ public class batoryArray<T extends Number> implements batoryIntefaceMatrix<T> {
     private static final int DEFAULT_CAPACITY = 10;
     private static final Object[] EMPTY_ELEMENTDATA = {};
     private static final int MAX_ARRAY_SIZE = Integer.MAX_VALUE - 8;
-
+    //to tylko komentarz do testowania gita
     transient Object[] elementData;
 
     private int size;
