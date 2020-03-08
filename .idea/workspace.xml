@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26c66819-3070-4612-a19a-9730ad6c97e3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YJcxSsPKxjT8aLX7ams524JP7I" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+    <option name="showVisibilityIcons" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="copyright" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Example" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example" />
+      <module name="OwnMatrixAPI" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26c66819-3070-4612-a19a-9730ad6c97e3" name="Default Changelist" comment="" />
+      <created>1582664383737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582664383737</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="264" y="0" width="816" height="728" key="#Intentions" timestamp="1582665232386">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="264" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1582665232386" />
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser" timestamp="1583099873764">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="74" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1583099873764" />
+    <state x="734" y="64" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582665772155">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="734" y="64" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.728@0.0.1366.728" timestamp="1582665772155" />
+    <state width="1323" height="216" key="GridCell.Tab.0.bottom" timestamp="1583099327344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1583099327344" />
+    <state width="1323" height="216" key="GridCell.Tab.0.center" timestamp="1583099327343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1583099327343" />
+    <state width="1323" height="216" key="GridCell.Tab.0.left" timestamp="1583099327343">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1583099327343" />
+    <state width="1323" height="216" key="GridCell.Tab.0.right" timestamp="1583099327344">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="216" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1583099327344" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1582665183734">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1582665183734" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1583663659651">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1583663659651" />
+    <state x="65" y="0" key="new project wizard" timestamp="1583663688516">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="65" y="0" key="new project wizard/0.0.1366.728@0.0.1366.728" timestamp="1583663688516" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1583097011156">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1583097011156" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1582665529426">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1582665529426" />
+  </component>
+</project>
